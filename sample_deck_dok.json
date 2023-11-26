@@ -1,0 +1,344 @@
+{
+  "deck": {
+    "deckType": "STANDARD",
+    "id": 24308147,
+    "keyforgeId": "3c38a26f-4eff-4852-a7d9-e12320a5ddb8",
+    "expansion": "AGE_OF_ASCENSION",
+    "name": "Boss Outfall, the Cautious Enemy",
+    "creatureCount": 21,
+    "actionCount": 8,
+    "artifactCount": 7,
+    "expectedAmber": 13.254999999999999,
+    "amberControl": 7.74,
+    "creatureControl": 9.0625,
+    "artifactControl": 0.5,
+    "efficiency": -0.5,
+    "effectivePower": 101,
+    "creatureProtection": 0.25,
+    "disruption": 2.25,
+    "other": 0.25,
+    "aercScore": 45,
+    "previousSasRating": 0,
+    "previousMajorSasRating": 0,
+    "aercVersion": 43,
+    "sasRating": 49,
+    "synergyRating": 6,
+    "antisynergyRating": 0,
+    "metaScores": {},
+    "efficiencyBonus": 0.0,
+    "totalPower": 83,
+    "cardArchiveCount": 2,
+    "keyCheatCount": 1,
+    "rawAmber": 10,
+    "totalArmor": 10,
+    "lastSasUpdate": "2023-11-25",
+    "sasPercentile": 1.2912101525716362,
+    "housesAndCards": [
+      {
+        "house": "Brobnar",
+        "cards": [
+          {
+            "cardTitle": "First Blood",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Pound",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Take that, Smartypants",
+            "rarity": "Rare",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Grump Buggy",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Grump Buggy",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Bingle Bangbang",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Brammo",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Flamewake Shaman",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Foozle",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Groggins",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Lollop the Titanic",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Tireless Crocag",
+            "rarity": "Rare",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          }
+        ]
+      },
+      {
+        "house": "Mars",
+        "cards": [
+          {
+            "cardTitle": "Carpet Phloxem",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Mothergun",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "\u00c6mber Conduction Unit",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Collector Worm",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Grommid",
+            "rarity": "Rare",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Ixxyxli Fixfinger",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Mindwarper",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Mindworm",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Vezyma Thinkdrone",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Vezyma Thinkdrone",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Zysysyx Shockworm",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Zysysyx Shockworm",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          }
+        ]
+      },
+      {
+        "house": "Shadows",
+        "cards": [
+          {
+            "cardTitle": "Miasma",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Nightforge",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Whistling Darts",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Whistling Darts",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Customs Office",
+            "rarity": "Rare",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Skeleton Key",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Subtle Maul",
+            "rarity": "Uncommon",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Gamgee",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Knuckles Bolton",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Knuckles Bolton",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Mack the Knife",
+            "rarity": "Rare",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          },
+          {
+            "cardTitle": "Umbra",
+            "rarity": "Common",
+            "legacy": false,
+            "maverick": false,
+            "anomaly": false,
+            "enhanced": false
+          }
+        ]
+      }
+    ],
+    "dateAdded": "2023-11-25"
+  },
+  "sasVersion": 43
+}
